@@ -1,3 +1,2 @@
 change 2
-dobavila 
-snova dobavila
+snova dobavila+
